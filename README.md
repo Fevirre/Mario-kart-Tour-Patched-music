@@ -5,3 +5,5 @@ There is the tutorial too if you want to do them yourself
 https://gbatemp.net/threads/setting-up-and-modding-mkt-to-use-custom-music.655911/
 
 put the .pck files under android storage/documents/TourMods/Music
+
+put catalog.csv in the root of the TourMods folder
